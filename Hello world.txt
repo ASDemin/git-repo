@@ -1,4 +1,6 @@
-print('Hello world!');
-print('hello')
-print('hello my dir friends')
-print('glad 2 see u')
+<<<<<<< HEAD
+print('Hello world!';);
+print('hello';)
+print('hello my dir friends';)
+print('glad 2 see u;')
+
